@@ -1,7 +1,7 @@
 /**
  * Nama FIle : MTitik.java 
- * Tanggal   : 3 Maret 2021
- * Penulis   : Muhamad Khafidz Haikal
+ * Tanggal   : 27 Februari 2023
+ * Penulis : Nashirudin Baqiy
  * Deskripsi : kelas yang berisi program utama yang memanfaatkan 
  *			   kelas Titik
  * 
